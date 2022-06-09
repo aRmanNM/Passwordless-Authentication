@@ -4,7 +4,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using PasswordlessAuthentication.Dtos;
-using PasswordlessAuthentication.Interfaces;
+using PasswordlessAuthentication.Services;
 
 namespace PasswordlessAuthentication.Controllers
 {

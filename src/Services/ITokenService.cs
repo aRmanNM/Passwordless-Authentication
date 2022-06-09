@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PasswordlessAuthentication.Interfaces
+namespace PasswordlessAuthentication.Services
 {
     public interface ITokenService
     {

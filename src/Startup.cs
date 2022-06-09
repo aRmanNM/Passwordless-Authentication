@@ -10,7 +10,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using PasswordlessAuthentication.Data;
-using PasswordlessAuthentication.Interfaces;
 using PasswordlessAuthentication.Services;
 using System.Text;
 

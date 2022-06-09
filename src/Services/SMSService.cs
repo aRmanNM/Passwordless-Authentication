@@ -3,7 +3,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.Logging;
-using PasswordlessAuthentication.Interfaces;
 
 namespace PasswordlessAuthentication.Services
 {

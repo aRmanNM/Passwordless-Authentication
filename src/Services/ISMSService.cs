@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace PasswordlessAuthentication.Interfaces
+namespace PasswordlessAuthentication.Services
 {
     public interface ISMSService
     {
